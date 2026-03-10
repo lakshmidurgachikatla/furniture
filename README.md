@@ -10,8 +10,8 @@ Features:
 - Provided ratings and reviews
 
 Technologies Used:
- HTML
- CSS
+- HTML
+- CSS
 
 Link: 
 https://famous-kringle-e01192.netlify.app
